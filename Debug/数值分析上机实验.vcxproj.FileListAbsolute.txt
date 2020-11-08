@@ -1,0 +1,2 @@
+C:\Users\liuxinyu\source\repos\数值分析上机实验\Debug\数值分析上机实验.exe
+C:\Users\liuxinyu\source\repos\数值分析上机实验\Debug\数值分析上机实验.pdb
